@@ -40,5 +40,6 @@ ctrl + enter // to jump into next line
     <article>   |
                 | 
 -------------------------------
-            <footer>                       
+            <footer>       
+-------------------------------                            
 ```
