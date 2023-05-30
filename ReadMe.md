@@ -17,3 +17,10 @@
 <noscript>      <ol>            <p>             <pre            <section>   <table>
 <tfoot>         <ul>            <video>
 ```
+
+```
+div#myID.Class1.Class2
+div.Class1#itemID-$*6
+
+ctrl + enter // to jump into next line
+```
